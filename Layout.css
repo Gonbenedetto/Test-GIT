@@ -1,0 +1,35 @@
+#quiensoy{
+    right: 20%
+}
+
+#columna1{
+    float: left;
+    width: 15%;
+    height: 100%;
+    margin-left: 2%;
+    margin-top: 2%;
+    align-self: center;
+}
+
+#columna2{
+    float:right ;
+    width: 80%;
+    margin-left: 2%;
+}
+
+#Portfolio{ 
+    padding-bottom: 3%;
+    margin-right: 20%;
+}
+
+#foto_mia{
+    margin-bottom:2%;
+    margin-left: 7%
+}
+
+html{
+    scroll-behavior: smooth;
+    height: 100%;
+    width: 100%;
+}
+
